@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Brian Mwangi
-- 👀 I’m interested in building software systems.
-- 🌱 I’m currently learning backend development with Python - Django.
-- 💞️ I’m looking to collaborate on exciting open-source and personal projects with other developers.
-- 📫 How to reach me https://linkedin.com/in/brian-mwangi-kamau
+ - 👋 Hey there! I'm Brian Mwangi, a junior software developer focusing on back-end development. 
+ - Currently, I'm honing my skills in Python and Django. I'm eager to collaborate on exciting open-source projects and personal endeavors with fellow developers and explore opportunities to 
+   make a real-world impact.
 
-<!---
-brian-mwangi-kamau/brian-mwangi-kamau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - You can connect with me on [LinkedIn](https://linkedin.com/in/brian-mwangi-kamau) or follow my journey on [Twitter](https://twitter.com/brianmwangi_). 
+ - For more, check out my [linktree](https://linktr.ee/briankamau).
