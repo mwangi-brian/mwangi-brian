@@ -1,6 +1,17 @@
- - 👋 Hey there! I'm Brian Mwangi, a junior software developer focusing on back-end development. 
- - Currently, I'm honing my skills in Python and Django. I'm eager to collaborate on exciting open-source projects and personal endeavors with fellow developers and explore opportunities to 
-   make a real-world impact.
+ - I'm __Brian Mwangi__, a software developer specializing in backend and desktop application development. I'm a freelancer who helps clients achieve their goals through custom software solutions.
+#### Looking to:
+ - Collaborate on open-source and personal projects with fellow developers.
+ - Take on freelance projects (especially backend and desktop development)
+#### Technologies:
+ - **Python**
+ - **Django**
+ - **RESTful API design**
+ - **SQL**
+ - **Docker**
+ - **AWS**
+ - **Git**
+#### Connect with me:
+ - LinkedIn: [linkedin.com/in/brian-mwangi-kamau](https://linkedin.com/in/brian-mwangi-kamau)
+ - Twitter: [x.com/brianmwangi_](https://x.com/brianmwangi_)
 
- - You can connect with me on [LinkedIn](https://linkedin.com/in/brian-mwangi-kamau) or follow my journey on [Twitter](https://twitter.com/brianmwangi_). 
- - For more, check out my [linktree](https://linktr.ee/briankamau).
+ #### Preview my latest projects [here](https://github.com/brian-mwangi-kamau?tab=repositories).
