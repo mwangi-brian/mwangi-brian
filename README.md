@@ -21,11 +21,11 @@
 
 
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Frameworks/Libraries</h3>
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=flask,django&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flask,django,qt&perline=6)](https://skillicons.dev)
 
   </div>
 </p>
