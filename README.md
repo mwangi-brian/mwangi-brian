@@ -11,24 +11,13 @@
 
 ---
 
-  <h3 align="center">Languages</h3>
+  <h3 align="center">Languages/Frameworks/Libraries</h3>
   <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=python,html,css&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,flask,django,qt&perline=7)](https://skillicons.dev)
 
   </div>
-
-
-
-<h3 align="center">Frameworks/Libraries</h3>
-<div align="center">
-
-    
-  [![My Skills](https://skillicons.dev/icons?i=flask,django,qt&perline=6)](https://skillicons.dev)
-
-  </div>
-</p>
 
 <h3 align="center">Databases</h3>
 <div align="center">
