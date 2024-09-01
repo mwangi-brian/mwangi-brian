@@ -3,11 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/mwangi-brian?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
 </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Mwangi!;" />
-</h1>
 
-<h3 align="center">I'm a software developer specializing in backend and desktop application development. I'm a freelancer who helps clients achieve their goals through custom software solutions.</h3>
+<h3 align="center">I'm a software developer specializing in backend and Android development. I help clients achieve their goals through custom software solutions.</h3>
 
 ---
 
@@ -57,13 +54,3 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mwangi-brian&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-<hr>
-
-#### Connect with me:
-LinkedIn: [linkedin.com/in/brian-mwangi-kamau](https://linkedin.com/in/brian-mwangi-kamau)<br>
-Twitter: [x.com/brianmwangi_](https://x.com/brianmwangi_)
-
-
-Design credits: [@Naveenalla3000](https://github.com/Naveenalla3000)
